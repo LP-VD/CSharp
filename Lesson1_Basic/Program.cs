@@ -38,7 +38,6 @@ namespace Lesson1_Basic
             //1GB = 1024 MB
             //1TB = 1024 GB
             //通过sizeof()函数可以查看变量的存储空间大小
-
             #endregion
 
             #region 变量的本质
@@ -46,6 +45,7 @@ namespace Lesson1_Basic
             //数据传递只能通过电信号，只有开和关两种状态，抽象化为0和1
             //1bit（位）就是一个数，只能表示0或1
             #endregion
+
 
 
             Console.WriteLine("Hello World!");

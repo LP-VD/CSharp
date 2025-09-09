@@ -111,8 +111,6 @@ namespace Lesson1_Basic
             
             #endregion
 
-
-
             Console.WriteLine("Hello World!");
             Console.WriteLine("PPP!");
         }

@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9_选择排序", "Les
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_Practice", "Lesson3_Practice\Lesson3_Practice.csproj", "{53F41330-CB0A-48D4-B322-59F6A022E2CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson10_类和对象", "Lesson10_类和对象\Lesson10_类和对象.csproj", "{F7812093-9D4E-45B2-9C18-AEC275338498}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,18 @@ Global
 		{53F41330-CB0A-48D4-B322-59F6A022E2CC}.Release|x64.Build.0 = Release|Any CPU
 		{53F41330-CB0A-48D4-B322-59F6A022E2CC}.Release|x86.ActiveCfg = Release|Any CPU
 		{53F41330-CB0A-48D4-B322-59F6A022E2CC}.Release|x86.Build.0 = Release|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Debug|x64.Build.0 = Debug|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Debug|x86.Build.0 = Debug|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Release|x64.ActiveCfg = Release|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Release|x64.Build.0 = Release|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7812093-9D4E-45B2-9C18-AEC275338498}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

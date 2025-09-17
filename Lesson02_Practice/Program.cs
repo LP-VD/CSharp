@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lession2_Practice
+namespace Lession02_Practice
 
 {
     enum E_QQType

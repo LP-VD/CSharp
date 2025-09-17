@@ -1,6 +1,6 @@
 ﻿using System.Runtime.ConstrainedExecution;
 
-namespace Lession5_Practice
+namespace Lesson05_Practice
 {
     internal class Program
     {

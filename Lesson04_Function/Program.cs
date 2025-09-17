@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lession4_Function
+namespace Lession04_Function
 {
     class Program
     {

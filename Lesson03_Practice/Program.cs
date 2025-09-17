@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lessson3_Practice
+namespace Lessson03_Practice
 {
     internal class Program
     {

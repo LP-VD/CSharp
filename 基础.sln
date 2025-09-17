@@ -3,31 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_Variety", "Lesson1_Variety\Lesson1_Variety.csproj", "{847072C1-6B27-4226-83DB-53AA9F125BF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson01_Variety", "Lesson01_Variety\Lesson01_Variety.csproj", "{847072C1-6B27-4226-83DB-53AA9F125BF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_Enum", "Lesson2_Enum\Lesson2_Enum.csproj", "{EB903CD3-DC61-49EA-9002-58C3492FE64D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_Enum", "Lesson02_Enum\Lesson02_Enum.csproj", "{EB903CD3-DC61-49EA-9002-58C3492FE64D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_Practice", "Lesson2_Practice\Lesson2_Practice.csproj", "{552CB330-D64D-466A-A5F1-FC462B9F60CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_Practice", "Lesson02_Practice\Lesson02_Practice.csproj", "{552CB330-D64D-466A-A5F1-FC462B9F60CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_Array", "Lesson3_Array\Lesson3_Array.csproj", "{48E7F349-CFDA-45F3-994A-3146C52F57BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson03_Array", "Lesson03_Array\Lesson03_Array.csproj", "{48E7F349-CFDA-45F3-994A-3146C52F57BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_Function", "Lesson4_Function\Lesson4_Function.csproj", "{F27F6AB5-A5F6-454B-94D6-1E4608AB8BB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson04_Function", "Lesson04_Function\Lesson04_Function.csproj", "{F27F6AB5-A5F6-454B-94D6-1E4608AB8BB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_变长参数和参数默认值", "Lesson5_变长参数和参数默认值\Lesson5_变长参数和参数默认值.csproj", "{849541A8-C377-4707-B977-3FE93B85B064}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_变长参数和参数默认值", "Lesson05_变长参数和参数默认值\Lesson05_变长参数和参数默认值.csproj", "{849541A8-C377-4707-B977-3FE93B85B064}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_Practice", "Lesson5_Practice\Lesson5_Practice.csproj", "{5B9B22CA-10D8-4CE0-997C-AA1A5CE71F47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_Practice", "Lesson05_Practice\Lesson05_Practice.csproj", "{5B9B22CA-10D8-4CE0-997C-AA1A5CE71F47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_递归", "Lesson6_递归\Lesson6_递归.csproj", "{5D3170A4-CA77-4DB9-8226-3F62D4D33E2D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson06_递归", "Lesson06_递归\Lesson06_递归.csproj", "{5D3170A4-CA77-4DB9-8226-3F62D4D33E2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_Struct", "Lesson7_Struct\Lesson7_Struct.csproj", "{C143B20A-1CBB-4E1E-90A9-61DFCB60F0EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson07_Struct", "Lesson07_Struct\Lesson07_Struct.csproj", "{C143B20A-1CBB-4E1E-90A9-61DFCB60F0EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_Practice", "Lesson7_Practice\Lesson7_Practice.csproj", "{8D06061D-C17C-458B-A69D-9487BA78C1C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson07_Practice", "Lesson07_Practice\Lesson07_Practice.csproj", "{8D06061D-C17C-458B-A69D-9487BA78C1C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8_冒泡排序", "Lesson8_冒泡排序\Lesson8_冒泡排序.csproj", "{1EAA3CF3-B8A1-4DB8-B8CC-E4899C11D920}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson08_冒泡排序", "Lesson08_冒泡排序\Lesson08_冒泡排序.csproj", "{1EAA3CF3-B8A1-4DB8-B8CC-E4899C11D920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9_选择排序", "Lesson9_选择排序\Lesson9_选择排序.csproj", "{FC678E9B-EDC4-45D5-9147-69279FE78CB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson09_选择排序", "Lesson09_选择排序\Lesson09_选择排序.csproj", "{FC678E9B-EDC4-45D5-9147-69279FE78CB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_Practice", "Lesson3_Practice\Lesson3_Practice.csproj", "{53F41330-CB0A-48D4-B322-59F6A022E2CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson03_Practice", "Lesson03_Practice\Lesson03_Practice.csproj", "{53F41330-CB0A-48D4-B322-59F6A022E2CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson10_类和对象", "Lesson10_类和对象\Lesson10_类和对象.csproj", "{F7812093-9D4E-45B2-9C18-AEC275338498}"
 EndProject

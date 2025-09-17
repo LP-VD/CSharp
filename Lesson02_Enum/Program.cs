@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lession2_Enum
+namespace Lession02_Enum
 {
     #region 知识点一 基本概念
     //1. 枚举是什么？

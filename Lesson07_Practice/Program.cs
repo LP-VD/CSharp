@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lession7_Practice
+namespace Lesson07_Practice
 {
     #region 练习题一 
     //使用结构体，定义一个学生结构体，包含姓名、年龄、学号等属性

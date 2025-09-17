@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lesson9_选择排序
+namespace Lesson09_选择排序
 {
     class Program
     {

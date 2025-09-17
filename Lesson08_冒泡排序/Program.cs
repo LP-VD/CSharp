@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lession8_冒泡排序
+namespace Lesson08_冒泡排序
 {
     class Program
     {

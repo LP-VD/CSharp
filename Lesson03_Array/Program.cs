@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lession3_Array
+namespace Lession03_Array
 {
     internal class Program
     {

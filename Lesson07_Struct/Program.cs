@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lession7_Struct
+namespace Lesson07_Struct
 {
     #region 概念
     //结构体是一种值类型，类似于类，但更轻量级

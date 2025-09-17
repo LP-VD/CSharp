@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lession9_变长参数和参数默认值
+namespace Lesson05_变长参数和参数默认值
 {
     class Program
     {

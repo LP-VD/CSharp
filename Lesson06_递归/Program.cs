@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lession6_递归
+namespace Lesson06_递归
 {
     class Program
     {
